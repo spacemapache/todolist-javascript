@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+body {
+  background-color: #747990;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+form {
+  text-align: center;
+}
+
+.submit {
+  margin-left: 10px;
+}
+
+.clear-list {
+  margin-left: 10px;
+}
+
+ul {
+  text-align: center;
+  text-decoration: none;
+}
+
+li {
+  text-transform: capitalize;
+}
+
+.a {
+  color: white;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  font-size: 13px;
+  margin-top: 30px;
+  color: white;
+}
